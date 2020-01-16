@@ -1,4 +1,8 @@
 spring:
   application:
     name: provider
+management:
+    security:
+        enabled: false
+        
 con: 3ee
