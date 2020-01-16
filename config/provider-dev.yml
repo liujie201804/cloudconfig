@@ -6,3 +6,6 @@ management:
         enabled: false
         
 con: wefe
+
+server:
+  port: 6666
